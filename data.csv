@@ -1,0 +1,21 @@
+Patient,SYMP A,SYMP B,SYMP C,Decision
+a,No,No,Normal,1
+b,No,No,High,1
+c,No,No,Very High,0
+d,No,Yes,High,0
+e,No,Yes,Very High,0
+f,Yes,Yes,High,0
+g,Yes,Yes,Very High,0
+h,No,No,High,1
+i,Yes,No,Very High,0
+j,Yes,No,High,1
+k,Yes,No,Very High,1
+l,No,Yes,Normal,1
+m,No,Yes,High,0
+n,No,Yes,Normal,1
+o,Yes,No,Normal,1
+P,Yes,No,Normal,1
+q,Yes,No,High,1
+r,Yes,Yes,Very High,0
+s,Yes,No,Normal,1
+t,No,Yes,Normal,1
